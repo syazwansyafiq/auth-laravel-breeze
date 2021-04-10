@@ -8,11 +8,18 @@ Getting started couldn't be easier:
 
 ```bash
 git clone git@github.com:syazwansyafiq/auth-laravel-breeze.git
+
 cd auth-laravel-breeze
 
 composer install
 
-npm install && npm run dev
+npm install 
+
+npm run dev
+
+php artisan migrate
+
+php artisan serve
 ```
 
 ## Contributing
