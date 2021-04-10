@@ -7,7 +7,7 @@ For further information, check out [Laravel Breeze](https://github.com/laravel/b
 Getting started couldn't be easier:
 
 ```bash
-
+git clone git@github.com:syazwansyafiq/auth-laravel-breeze.git
 cd auth-laravel-breeze
 
 composer install
